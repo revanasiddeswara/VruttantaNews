@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 50,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "India Today"
+            },
+            "author": "India Today Web Desk",
+            "title": "This turtle was the size of a car and lived among dinosaurs - India Today",
+            "description": "Researchers are puzzled at the massive size of the turtle, which they describe as the size of a small car, a Mini Cooper.",
+            "url": "https://www.indiatoday.in/science/story/this-turtle-was-the-size-of-a-car-and-lived-among-dinosaurs-2298851-2022-11-18",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202211/turtle-sixteen_nine.jpg?VersionId=Uji6S3olZWjdclDGrdfKvByIteRair2U",
+            "publishedAt": "2022-11-18T09:59:37Z",
+            "content": "By India Today Web Desk: Paleontologists have for the first time discovered the fossils of a unique species of turtles, that was big and lived among the dinosaurs. The species lived in the subtropica… [+3166 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deccan Chronicle"
+            },
+            "author": "Deccan Chronicle",
+            "title": "Webb Space Telescope spots early galaxies hidden from Hubble - Deccan Chronicle",
+            "description": "Webb's latest discoveries were detailed in the Astrophysical Journal Letters by an international team led by Rohan Naidu",
+            "url": "https://www.deccanchronicle.com/science/science/181122/webb-space-telescope-spots-early-galaxies-hidden-from-hubble.html",
+            "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-4gtg39v8ecmq72o031r9cdo303-20170618085626.Medi.jpeg",
+            "publishedAt": "2022-11-18T09:02:00Z",
+            "content": "Cape Canaveral (US): NASA's Webb Space Telescope is finding bright, early  galaxies that until now were hidden from view, including one that may have formed a mere 350 million (35 crore) years after … [+2861 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Bharat Sharma",
+            "title": "Earth Regulates Its Own Temperatures Through A Stabilising Mechanism, Study Finds - Indiatimes.com",
+            "description": "Would you believe us if we told you that just like its creatures, Earth too regulates its own body in ways we cannot completely comprehend? A new study claims that Earth is able to regulate its own temperature over millennia.Published by MIT researchers in Sc…",
+            "url": "https://www.indiatimes.com/technology/science-and-future/earth-regulates-temperatures-study-585136.html",
+            "urlToImage": "https://im.indiatimes.in/content/2022/Nov/FBImage5-copy_6377378e5b2cc.jpg",
+            "publishedAt": "2022-11-18T07:40:33Z",
+            "content": "Would you believe us if we told you that just like its creatures, Earth too regulates its own body in ways we cannot completely comprehend? A new study claims that Earth is able to regulate its own t… [+2842 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Nasa Artemis launch: To the Moon and Beyond - The Straits Times",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCMetaWbzYc8",
+            "urlToImage": null,
+            "publishedAt": "2022-11-18T07:00:03Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tech Explorist"
+            },
+            "author": "Amit Malewar",
+            "title": "A new map of the universe displays the entire known cosmos - Tech Explorist",
+            "description": "The map allows you to scroll through the universe.",
+            "url": "https://www.techexplorist.com/new-map-universe-displays-entire-known-cosmos/54916/",
+            "urlToImage": "https://www.techexplorist.com/wp-content/uploads/2022/11/map-of-universe.jpg",
+            "publishedAt": "2022-11-18T06:40:30Z",
+            "content": "Johns Hopkins University astronomers have created a new map of the universe. This is the first time the span of the known cosmos has been shown with pinpoint accuracy and sweeping beauty.\r\nTo create … [+1310 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "LatestLY"
+            },
+            "author": "ANI",
+            "title": "Science News | Elusive Dusty Inner Region of Distant Galaxy: Research - LatestLY",
+            "description": "Get latest articles and stories on Science at LatestLY.  An international team of scientists has achieved the milestone of directly observing the long-sought, innermost dusty ring around a supermassive black hole, at a right angle to its emerging jet. Such a …",
+            "url": "https://www.latestly.com/agency-news/science-news-elusive-dusty-inner-region-of-distant-galaxy-research-4474724.html",
+            "urlToImage": "https://st1.latestly.com/wp-content/uploads/2022/11/ANI-20221118061542-588x441.jpg",
+            "publishedAt": "2022-11-18T06:34:25Z",
+            "content": "Washington [US], November 18 (ANI): An international team of scientists has achieved the milestone of directly observing the long-sought, innermost dusty ring around a supermassive black hole, at a r… [+5273 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ANI News"
+            },
+            "author": null,
+            "title": "Elusive dusty inner region of distant galaxy: Research - ANI News",
+            "description": "An international team of scientists has achieved the milestone of directly observing the long-sought, innermost dusty ring around a supermassive black hole, at a right angle to its emerging jet. Such a structure was thought to exist in the nucleus of galaxies…",
+            "url": "https://www.aninews.in/news/science/elusive-dusty-inner-region-of-distant-galaxy-research20221118115114",
+            "urlToImage": "https://aniportalimages.s3.amazonaws.com/media/details/ANI-20221118061542.jpg",
+            "publishedAt": "2022-11-18T06:21:14Z",
+            "content": "Washington [US], November 18 (ANI): An international team of scientists has achieved the milestone of directly observing the long-sought, innermost dusty ring around a supermassive black hole, at a r… [+4880 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tech Explorist"
+            },
+            "author": "Amit Malewar",
+            "title": "A new method to ‘see’ the fine structure and chemical composition of a human cell - Tech Explorist",
+            "description": "A different kind of cell signal.",
+            "url": "https://www.techexplorist.com/new-method-see-fine-structure-chemical-composition-human-cell/54912/",
+            "urlToImage": "https://www.techexplorist.com/wp-content/uploads/2022/11/cells.jpg",
+            "publishedAt": "2022-11-18T05:53:18Z",
+            "content": "While nanoscale structural imaging of cells is now possible, a direct recording of the chemical composition of these domains is lacking. A novel technique was created by scientists at the Beckman Ins… [+3227 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Leonid meteor shower peaks tonight - ABC 7 Chicago",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Da-rUueHSLC4",
+            "urlToImage": null,
+            "publishedAt": "2022-11-17T23:42:03Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Amanda Kooser",
+            "title": "NASA Mars Rover Inspects 'Tantalizing' Rock for Clues to Ancient Life - CNET",
+            "description": "Perseverance spotted some sensational sandstone.",
+            "url": "https://www.cnet.com/science/space/nasa-mars-rover-inspects-tantalizing-rock-for-clues-to-ancient-life/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/245f3145d843b56ff43dfcdc70603a3b73dc9ca0/hub/2022/11/17/88d6fcb6-a756-4336-8481-523dccdd01d9/mars-perseverance-abrasion.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-11-17T23:15:00Z",
+            "content": "This story is part of Welcome to Mars, our series exploring the red planet. \r\nNASA's Perseverance rover is determined to tease out Mars' secrets, especially when it comes to seeking evidence of ancie… [+1992 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "See the Latest Stunning Images Taken by the James Webb Space Telescope - FOX Weather",
+            "description": "The James Webb Space Telescope has released more mesmerizing images of the deepest corners of our universe. #JamesWebbSpaceTelescope #JWST #NASA Click here f...",
+            "url": "https://www.youtube.com/watch?v=lxF3S9zcysc",
+            "urlToImage": "https://i.ytimg.com/vi/lxF3S9zcysc/maxresdefault.jpg",
+            "publishedAt": "2022-11-17T22:12:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "#ThankYouLightSail - The Planetary Society",
+            "description": "After 3.5 years and 18,000 orbits of the Earth, The Planetary Society’s LightSail 2 solar sail spacecraft has reentered the Earth’s atmosphere in a blaze of ...",
+            "url": "https://www.youtube.com/watch?v=NfSRAmUll_Y",
+            "urlToImage": "https://i.ytimg.com/vi/NfSRAmUll_Y/maxresdefault.jpg",
+            "publishedAt": "2022-11-17T21:55:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bollyinside.com"
+            },
+            "author": "Lisa Jennings",
+            "title": "NASA scientists are sending experiments into orbit that will enable longer future journeys, including space tomatoes and yogurt packets. - BollyInside",
+            "description": "Space Tomatoes, a portable diagnostic kit that grows beneficial microbes, and yogurt bags are on board SpaceX’s 26th commercial delivery mission,",
+            "url": "https://www.bollyinside.com/news/nasa-scientists-are-sending-experiments-into-orbit-that-will-enable-longer-future-journeys-including-space-tomatoes-and-yogurt-packets",
+            "urlToImage": "https://cdn-photos.itemsb.com/wp-content/uploads/2022/11/Web-capture_17-11-2022_22740_www.bing_.com_.jpeg",
+            "publishedAt": "2022-11-17T20:05:13Z",
+            "content": "Space Tomatoes, a portable diagnostic kit that grows beneficial microbes, and yogurt bags are on board SpaceXs 26th commercial delivery mission, scheduled to launch to the International Space Station… [+2707 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bollyinside.com"
+            },
+            "author": "Lisa Jennings",
+            "title": "Space agency reports that communication with Japan’s lunar lander is unstable - BollyInside",
+            "description": "The Japan Aerospace Exploration Agency (JAXA) said Thursday it was unable to establish stable communication with a small lunar lander that launched",
+            "url": "https://www.bollyinside.com/news/space-agency-reports-that-communication-with-japans-lunar-lander-is-unstable",
+            "urlToImage": "https://cdn-photos.itemsb.com/wp-content/uploads/2022/11/Web-capture_17-11-2022_223037_www.laprensalatina.com_.jpeg",
+            "publishedAt": "2022-11-17T19:05:12Z",
+            "content": "The Japan Aerospace Exploration Agency (JAXA) said Thursday it was unable to establish stable communication with a small lunar lander that launched Wednesday as part of the Artemis I mission.\r\nMeasur… [+2060 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Is AI just a fantasy | Mazviita Chirimuuta - The Institute of Art and Ideas",
+            "description": "Mazviita Chirimuuta debunks the myths surrounding AI. Is it all just a fantasy?Watch the full talk at https://iai.tv/video/the-ai-hoax-mazviita-chirimuuta?ut...",
+            "url": "https://www.youtube.com/watch?v=Hj2UShFSIB8",
+            "urlToImage": "https://i.ytimg.com/vi/Hj2UShFSIB8/maxresdefault.jpg",
+            "publishedAt": "2022-11-17T18:45:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "See the Spacecraft: Earth-Observing Satellite SWOT Nears Launch (Live Q+A) - NASA Jet Propulsion Laboratory",
+            "description": "A new Earth science mission led by NASA and the French space agency Centre National d’Études Spatiales is preparing for launch! In less than a month, the SWO...",
+            "url": "https://www.youtube.com/watch?v=Vfd2XYYUrs4",
+            "urlToImage": "https://i.ytimg.com/vi/Vfd2XYYUrs4/maxresdefault.jpg",
+            "publishedAt": "2022-11-17T18:19:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Medical Xpress"
+            },
+            "author": "Nikolay Posunko",
+            "title": "Scientists fashion tiny 'lyre' to ensure medical imaging systems are in tune - Medical Xpress",
+            "description": "Skoltech researchers have created a solution for quick functional checks of optoacoustic microscopes and tomographs. These are diagnostic devices that use harmless laser irradiation and ultrasound waves instead of X-rays for detecting breast cancer and, poten…",
+            "url": "https://medicalxpress.com/news/2022-11-scientists-fashion-tiny-lyre-medical.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2022/scientists-fashion-tin-1.jpg",
+            "publishedAt": "2022-11-17T17:43:03Z",
+            "content": "Skoltech researchers have created a solution for quick functional checks of optoacoustic microscopes and tomographs. These are diagnostic devices that use harmless laser irradiation and ultrasound wa… [+5501 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ANI News"
+            },
+            "author": null,
+            "title": "Research suggests Mars was once covered by 300 meter deep oceans - ANI News",
+            "description": "Mars is called the red planet. But once, it was actually blue and covered in water, bringing us closer to finding out if Mars had ever harboured life.",
+            "url": "https://www.aninews.in/news/science/research-suggests-mars-was-once-covered-by-300-meter-deep-oceans20221117230506",
+            "urlToImage": "https://aniportalimages.s3.amazonaws.com/media/details/ANI-20221117151708.jpeg",
+            "publishedAt": "2022-11-17T17:35:00Z",
+            "content": "Copenhagen [Denmark], November 17 (ANI): The \"red planet\" refers to Mars. We're getting closer to learning whether life has ever existed on Mars thanks to the discovery that it was previously blue an… [+2685 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Karyn Hede",
+            "title": "Tiniest ever ancient seawater pockets revealed - Phys.org",
+            "description": "Trapped for millennia, the tiniest liquid remnants of an ancient inland sea have now been revealed. The surprising discovery of seawater sealed in what is now North America for 390 million years opens up a new avenue for understanding how oceans change and ad…",
+            "url": "https://phys.org/news/2022-11-tiniest-ancient-seawater-pockets-revealed.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/tiniest-ever-ancient-s.jpg",
+            "publishedAt": "2022-11-17T16:23:30Z",
+            "content": "Trapped for millennia, the tiniest liquid remnants of an ancient inland sea have now been revealed. The surprising discovery of seawater sealed in what is now North America for 390 million years open… [+5834 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X staff",
+            "title": "Study of ray-finned fishes that survived mass extinction event overturns previous assumptions on species diversification - Phys.org",
+            "description": "Ray-finned fish, now the most diverse group of backboned animals, were not as hard hit by a mass extinction event 360 million years ago as scientists previously thought.",
+            "url": "https://phys.org/news/2022-11-ray-finned-fishes-survived-mass-extinction.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2022/ray-finned-fish-surviv.jpg",
+            "publishedAt": "2022-11-17T16:02:02Z",
+            "content": "Ray-finned fish, now the most diverse group of backboned animals, were not as hard hit by a mass extinction event 360 million years ago as scientists previously thought.\r\nThe extinction event that en… [+3914 chars]"
+        }
+    ]
+}
